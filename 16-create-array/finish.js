@@ -6,3 +6,7 @@
  *
  * 3. Выведите в консоль длину массива
  */
+
+const array = ['beka', true, 21]
+console.log(array[0])
+console.log(array.length)

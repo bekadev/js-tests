@@ -4,3 +4,6 @@
  *
  * 2. Выведите значение в консоль
  */
+const time = new Date()
+const timeSec = time.getTime()
+console.log(timeSec)

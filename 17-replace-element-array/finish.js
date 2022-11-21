@@ -8,3 +8,10 @@
  *
  * 4. Выведите в консоль измененный массив
  */
+
+const arr = ['beka', 21, true]
+console.log(arr)
+
+arr[1]=22
+
+console.log(arr)

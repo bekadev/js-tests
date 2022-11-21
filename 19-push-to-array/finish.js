@@ -6,3 +6,7 @@
  *
  * 3. Выведите в консоль длину результирующего массива
  */
+
+const newArray = [21, null, 'trex', true]
+newArray.push(10)
+console.log(newArray)
