@@ -10,3 +10,9 @@
  *
  * 5. Результат вызовов функции выведите в консоль
  */
+
+const fn = function (name){
+    return `Hi ${name}`
+}
+console.log(fn('al'))
+console.log(fn('sis'))

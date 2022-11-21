@@ -7,3 +7,14 @@
  *
  * 3. Создайте многострочный комментарий
  */
+
+// single comment
+const name = 'beka';
+///////////////////////
+
+/* multi comment
+*
+*
+*
+* */
+const person = 2;

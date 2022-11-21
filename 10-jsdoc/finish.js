@@ -12,3 +12,11 @@
  *
  * 4. Вызовите функцию
  */
+
+const sum = (a, b) => {
+    c = a - b;
+    return c
+}
+
+const finishFN = sum(11, 5)
+console.log(finishFN)

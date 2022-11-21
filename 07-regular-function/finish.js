@@ -8,3 +8,8 @@
  *
  * 4. Вызовите функцию
  */
+
+function func(){
+    console.log('beka')
+}
+func()
