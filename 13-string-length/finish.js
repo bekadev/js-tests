@@ -4,3 +4,7 @@
  *
  * 2. Виведите в консоль длину этой строки
  */
+
+const ln = 'skolko'
+
+console.log(ln.length)

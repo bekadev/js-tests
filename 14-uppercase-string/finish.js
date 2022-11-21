@@ -12,3 +12,9 @@
  *
  * 5. Выведите в консоль значение второй переменной
  */
+
+const value = 'lolo';
+console.log(value instanceof String)
+console.log(typeof value)
+const value2 = value.toUpperCase()
+console.log(value2)
