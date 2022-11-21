@@ -7,3 +7,7 @@
  *
  * 3. Выведите значение переменной в консоль
  */
+
+
+let myCountry = 'Almaty';
+console.log(myCountry)
